@@ -1,45 +1,45 @@
 {
 
-    "items": [
+    "currancyModel": [
         {
-            "countray": "Stout",
-            "rate": 7
-        },
-        {
-            "countray": "Morris",
-            "rate": 9
-        },
-        {
-            "countray": "Beck",
-            "rate": 39
-        },
-        {
-            "countray": "Preston",
-            "rate": 20
-        },
-        {
-            "countray": "Garcia",
-            "rate": 15
-        },
-        {
-            "countray": "Langley",
+            "name": "Spivey",
             "rate": 12
         },
         {
-            "countray": "Coley",
+            "name": "Stevenson",
+            "rate": 19
+        },
+        {
+            "name": "Warren",
+            "rate": 2
+        },
+        {
+            "name": "Whitaker",
+            "rate": 7
+        },
+        {
+            "name": "Middleton",
+            "rate": 7
+        },
+        {
+            "name": "Singleton",
             "rate": 45
         },
         {
-            "countray": "Poole",
-            "rate": 41
+            "name": "Garrett",
+            "rate": 15
         },
         {
-            "countray": "Honeycutt",
-            "rate": 49
+            "name": "Tilley",
+            "rate": 22
         },
         {
-            "countray": "Coley",
-            "rate": 38
+            "name": "Quinn",
+            "rate": 5
+        },
+        {
+            "name": "Wiley",
+            "rate": 32
         }
     ]
 
