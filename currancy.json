@@ -1,11 +1,46 @@
 {
-   {
-      "USD":"1"
-   },
-   {
-      "SD":"70"
-   },
-   {
-      "UKD":"1.1"
-   }
+
+    "items": [
+        {
+            "countray": "Stout",
+            "rate": 7
+        },
+        {
+            "countray": "Morris",
+            "rate": 9
+        },
+        {
+            "countray": "Beck",
+            "rate": 39
+        },
+        {
+            "countray": "Preston",
+            "rate": 20
+        },
+        {
+            "countray": "Garcia",
+            "rate": 15
+        },
+        {
+            "countray": "Langley",
+            "rate": 12
+        },
+        {
+            "countray": "Coley",
+            "rate": 45
+        },
+        {
+            "countray": "Poole",
+            "rate": 41
+        },
+        {
+            "countray": "Honeycutt",
+            "rate": 49
+        },
+        {
+            "countray": "Coley",
+            "rate": 38
+        }
+    ]
+
 }
