@@ -1,1 +1,29 @@
-{"items":[{"countray":"Stout","rate":7},{"countray":"Morris","rate":9},{"countray":"Beck","rate":39},{"countray":"Preston","rate":20},{"countray":"Garcia","rate":15},{"countray":"Langley","rate":12},{"countray":"Coley","rate":45},{"countray":"Poole","rate":41},{"countray":"Honeycutt","rate":49},{"countray":"Coley","rate":38}]}
+{
+  "items": [
+    {
+      "countray": "USA",
+      "currancy": "United States Dollar",
+      "rate": 1
+    },
+    {
+      "countray": "Sudan",
+      "currancy": "Sudanes pound",
+      "rate": 60
+    },
+    {
+      "countray": "Saudi arabia",
+      "currancy": "Saudi riyal",
+      "rate": 3.75
+    },
+    {
+      "countray": "Jordan",
+      "currancy": "Jordanian dinar",
+      "rate": 3
+    },
+    {
+      "countray": "France",
+      "currancy": "Euro",
+      "rate": 2
+    }
+  ]
+}
