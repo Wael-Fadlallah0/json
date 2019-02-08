@@ -4,31 +4,31 @@
       "countray": "USA",
       "currancy": "United States Dollar",
       "rate": 1,
-      "image":"https://imgur.com/bWXkHwG"
+      "image":"https://i.imgur.com/bWXkHwG.png"
     },
     {
       "countray": "Sudan",
       "currancy": "Sudanes pound",
       "rate": 60,
-      "image":"https://imgur.com/bYv10BS"
+      "image":"https://i.imgur.com/bYv10BS.png"
     },
     {
       "countray": "Saudi arabia",
       "currancy": "Saudi riyal",
       "rate": 3.75,
-      "image":"https://imgur.com/imrAD9O"
+      "image":"https://i.imgur.com/imrAD9O.png"
     },
     {
       "countray": "Jordan",
       "currancy": "Jordanian dinar",
       "rate": 3,
-      "image":"https://imgur.com/rjbEob2"
+      "image":"https://i.imgur.com/rjbEob2.png"
     },
     {
       "countray": "France",
       "currancy": "Euro",
       "rate": 2,
-      "image":"https://imgur.com/abW2n64"
+      "image":"https://i.imgur.com/abW2n64.png"
     }
   ]
 }
