@@ -9,7 +9,7 @@
     {
       "countray": "Sudan",
       "currancy": "Sudanes pound",
-      "rate": 60,
+      "rate": 47.63",
       "image":"https://i.imgur.com/bYv10BS.png"
     },
     {
@@ -21,13 +21,13 @@
     {
       "countray": "Jordan",
       "currancy": "Jordanian dinar",
-      "rate": 3,
+      "rate": 0.71,
       "image":"https://i.imgur.com/rjbEob2.png"
     },
     {
       "countray": "France",
       "currancy": "Euro",
-      "rate": 2,
+      "rate": 0.88,
       "image":"https://i.imgur.com/abW2n64.png"
     }
   ]
