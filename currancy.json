@@ -19,10 +19,10 @@
       "currancy": "Sudanes pound",
       "image":"https://i.imgur.com/bYv10BS.png",
       "rate": {
-        "Sudan":3.75,
-        "Saudi riyal":47.63,
-        "Jordanian dinar":0.71,
-        "Euro":0.88
+        "USA":0.02,
+        "Saudi riyal":0.07,
+        "Jordanian dinar":0.01,
+        "Euro":0.01
       }
     },
     {
@@ -31,10 +31,10 @@
       "currancy": "Saudi riyal",
       "image":"https://i.imgur.com/imrAD9O.png",
       "rate": {
-        "Sudan":3.75,
-        "Saudi riyal":47.63,
-        "Jordanian dinar":0.71,
-        "Euro":0.88
+        "Sudan":12.69,
+        "USA":0.27,
+        "Jordanian dinar":0.19,
+        "Euro":0.24
       }
     },
     {
