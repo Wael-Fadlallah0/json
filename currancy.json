@@ -4,37 +4,62 @@
       "id":0,
       "countray": "USA",
       "currancy": "United States Dollar",
-      "rate": 1,
-      "image":"https://i.imgur.com/bWXkHwG.png"
+      "image":"https://i.imgur.com/bWXkHwG.png",
+      "rate": {
+        "Sudan":3.75,
+        "Saudi riyal":47.63,
+        "Jordanian dinar":0.71,
+        "Euro":0.88
+      }
     },
     {
       
       "id":1,
       "countray": "Sudan",
       "currancy": "Sudanes pound",
-      "rate": 47.63,
-      "image":"https://i.imgur.com/bYv10BS.png"
+      "image":"https://i.imgur.com/bYv10BS.png",
+      "rate": {
+        "Sudan":3.75,
+        "Saudi riyal":47.63,
+        "Jordanian dinar":0.71,
+        "Euro":0.88
+      }
     },
     {
       "id":2,
       "countray": "Saudi arabia",
       "currancy": "Saudi riyal",
-      "rate": 3.75,
-      "image":"https://i.imgur.com/imrAD9O.png"
+      "image":"https://i.imgur.com/imrAD9O.png",
+      "rate": {
+        "Sudan":3.75,
+        "Saudi riyal":47.63,
+        "Jordanian dinar":0.71,
+        "Euro":0.88
+      }
     },
     {
       "id":3,
       "countray": "Jordan",
       "currancy": "Jordanian dinar",
-      "rate": 0.71,
-      "image":"https://i.imgur.com/rjbEob2.png"
+      "image":"https://i.imgur.com/rjbEob2.png",
+      "rate": {
+        "Sudan":3.75,
+        "Saudi riyal":47.63,
+        "Jordanian dinar":0.71,
+        "Euro":0.88
+      }
     },
     {
       "id":4,
       "countray": "France",
       "currancy": "Euro",
-      "rate": 0.88,
-      "image":"https://i.imgur.com/abW2n64.png"
+      "image":"https://i.imgur.com/abW2n64.png",
+      "rate": {
+        "Sudan":3.75,
+        "Saudi riyal":47.63,
+        "Jordanian dinar":0.71,
+        "Euro":0.88
+      }
     }
   ]
 }
